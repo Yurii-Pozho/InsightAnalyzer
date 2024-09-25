@@ -36,10 +36,10 @@ The goal is to develop a system for collecting and analyzing data on user activi
 
 ## Data Storage and Analysis Tools:
 The data was stored on the Google BigQuery platform, where I performed queries to process and analyze information. GBQ provides scalable infrastructure for executing SQL queries on large datasets, enabling efficient data processing.
-[Google BigQuery Console](/https://console.cloud.google.com/bigquery?sq=774600773001:847a46a563474c2eac9afbd74f80b8cc)
+[Google BigQuery Console](https://console.cloud.google.com/bigquery?sq=774600773001:847a46a563474c2eac9afbd74f80b8cc)
 
 For data analysis and visualization, I used Tableau. This tool allows creating interactive dashboards and visualizations, which help to better understand the information and detect key trends. Tableau offers powerful data aggregation, analysis, and presentation capabilities, enabling quick insights and data-driven decision-making.
-[Tableau Dashboard](/https://public.tableau.com/app/profile/yurii.pozho/viz/Finalproject_17272601829020/Dashboard)
+[Tableau Dashboard](https://public.tableau.com/app/profile/yurii.pozho/viz/Finalproject_17272601829020/Dashboard)
 
 ## Key Insights from the Analysis:
 ### 1. Geographic Analysis:
